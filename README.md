@@ -1,5 +1,5 @@
 # IPL_Data_SQL
-## Indian Premiere League Dataset - SQL Project 
+Indian Premiere League Dataset - SQL Project 
 
 # Design Document
 
